@@ -1,7 +1,6 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-from vega_datasets import data
 
 st.title("Monthly water inflows since 1988 in Cyprus")
 st.markdown("""
