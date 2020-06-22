@@ -1,1 +1,1 @@
-Streamlit data app that serves open data from `data.gov.cy
+Streamlit data app that visualizes open data from `data.gov.cy`.
